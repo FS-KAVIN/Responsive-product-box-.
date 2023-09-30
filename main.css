@@ -1,0 +1,25 @@
+.productbox label{
+    color: red;
+}
+
+.productbox button{
+    background: dodgerblue;
+    color: aliceblue;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    border: 1px solid dodgerblue;
+}
+
+.productbox{
+    border: 1px solid dodgerblue;
+    padding: 10px 10px 10px 10px ;
+    width: 320px;
+    border-radius: 10px;
+    margin: 10px 10px 20px 10px;
+}
+
+.parentbox{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;    
+}
